@@ -1,0 +1,62 @@
+M = 100
+activation function = h1
+lambda = 0.5
+number of max epochs = 50
+
+The number of the train data is 700.
+The number of the test data is 260.
+
+Running mini-batch gradient ascent...
+Epoch: 1, Cost function: -381.966424
+Epoch: 2, Cost function: -355.352363
+Epoch: 3, Cost function: -351.370275
+Epoch: 4, Cost function: -347.654890
+Epoch: 5, Cost function: -344.070750
+Epoch: 6, Cost function: -340.570090
+Epoch: 7, Cost function: -337.131567
+Epoch: 8, Cost function: -333.744303
+Epoch: 9, Cost function: -330.401911
+Epoch: 10, Cost function: -327.100554
+Epoch: 11, Cost function: -323.837674
+Epoch: 12, Cost function: -320.611351
+Epoch: 13, Cost function: -317.420216
+Epoch: 14, Cost function: -314.263266
+Epoch: 15, Cost function: -311.139586
+Epoch: 16, Cost function: -308.048515
+Epoch: 17, Cost function: -304.989399
+Epoch: 18, Cost function: -301.961727
+Epoch: 19, Cost function: -298.965013
+Epoch: 20, Cost function: -295.998785
+Epoch: 21, Cost function: -293.062691
+Epoch: 22, Cost function: -290.156303
+Epoch: 23, Cost function: -287.279250
+Epoch: 24, Cost function: -284.431216
+Epoch: 25, Cost function: -281.611831
+Epoch: 26, Cost function: -278.820801
+Epoch: 27, Cost function: -276.057762
+Epoch: 28, Cost function: -273.322469
+Epoch: 29, Cost function: -270.614614
+Epoch: 30, Cost function: -267.933843
+Epoch: 31, Cost function: -265.279946
+Epoch: 32, Cost function: -262.652599
+Epoch: 33, Cost function: -260.051516
+Epoch: 34, Cost function: -257.476472
+Epoch: 35, Cost function: -254.927144
+Epoch: 36, Cost function: -252.403297
+Epoch: 37, Cost function: -249.904676
+Epoch: 38, Cost function: -247.431011
+Epoch: 39, Cost function: -244.982035
+Epoch: 40, Cost function: -242.557550
+Epoch: 41, Cost function: -240.157236
+Epoch: 42, Cost function: -237.780878
+Epoch: 43, Cost function: -235.428269
+Epoch: 44, Cost function: -233.099131
+Epoch: 45, Cost function: -230.793226
+Epoch: 46, Cost function: -228.510337
+Epoch: 47, Cost function: -226.250237
+Epoch: 48, Cost function: -224.012676
+Epoch: 49, Cost function: -221.797435
+Epoch: 50, Cost function: -219.604329
+
+
+The error of the method is: 0.5

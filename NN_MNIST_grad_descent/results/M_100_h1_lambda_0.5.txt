@@ -1,0 +1,9 @@
+M = 100
+activation function = h1
+lambda = 0.5
+number of max iterations = 1000
+
+Gradcheck for parameters W1, W2.
+
+>> exit
+

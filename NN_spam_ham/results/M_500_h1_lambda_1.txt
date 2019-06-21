@@ -1,0 +1,62 @@
+M = 500
+activation function = h1
+lambda = 1
+number of max epochs = 50
+
+The number of the train data is 700.
+The number of the test data is 260.
+
+Running batch gradient ascent...
+Iteration: 1, Cost function: -389.917859
+Iteration: 2, Cost function: -264.525763
+Iteration: 3, Cost function: -263.996976
+Iteration: 4, Cost function: -263.469246
+Iteration: 5, Cost function: -262.942571
+Iteration: 6, Cost function: -262.416948
+Iteration: 7, Cost function: -261.892377
+Iteration: 8, Cost function: -261.368854
+Iteration: 9, Cost function: -260.846378
+Iteration: 10, Cost function: -260.324946
+Iteration: 11, Cost function: -259.804556
+Iteration: 12, Cost function: -259.285207
+Iteration: 13, Cost function: -258.766896
+Iteration: 14, Cost function: -258.249621
+Iteration: 15, Cost function: -257.733380
+Iteration: 16, Cost function: -257.218171
+Iteration: 17, Cost function: -256.703992
+Iteration: 18, Cost function: -256.190840
+Iteration: 19, Cost function: -255.678715
+Iteration: 20, Cost function: -255.167613
+Iteration: 21, Cost function: -254.657533
+Iteration: 22, Cost function: -254.148473
+Iteration: 23, Cost function: -253.640430
+Iteration: 24, Cost function: -253.133403
+Iteration: 25, Cost function: -252.627389
+Iteration: 26, Cost function: -252.122387
+Iteration: 27, Cost function: -251.618394
+Iteration: 28, Cost function: -251.115409
+Iteration: 29, Cost function: -250.613429
+Iteration: 30, Cost function: -250.112453
+Iteration: 31, Cost function: -249.612478
+Iteration: 32, Cost function: -249.113503
+Iteration: 33, Cost function: -248.615525
+Iteration: 34, Cost function: -248.118543
+Iteration: 35, Cost function: -247.622554
+Iteration: 36, Cost function: -247.127556
+Iteration: 37, Cost function: -246.633548
+Iteration: 38, Cost function: -246.140528
+Iteration: 39, Cost function: -245.648493
+Iteration: 40, Cost function: -245.157441
+Iteration: 41, Cost function: -244.667372
+Iteration: 42, Cost function: -244.178282
+Iteration: 43, Cost function: -243.690169
+Iteration: 44, Cost function: -243.203033
+Iteration: 45, Cost function: -242.716870
+Iteration: 46, Cost function: -242.231679
+Iteration: 47, Cost function: -241.747458
+Iteration: 48, Cost function: -241.264204
+Iteration: 49, Cost function: -240.781917
+Iteration: 50, Cost function: -240.300594
+
+
+The error of the method is: 0.5
