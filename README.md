@@ -14,6 +14,7 @@ demo_mnistNN
 
 ## MNIST Spam Ham implementation
 
+Unzip the LingspamDataset data from the compressed file "LingspamDataset.zip", in the same directory.
 Change directory inside the folder "NN_spam_ham/code".
 Then, run the Neural Network "demo_spam_ham_NN.m", as follows:
 ```matlab
